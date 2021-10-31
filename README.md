@@ -37,10 +37,11 @@
 
   ## Screenshot
   - Commandline:
+  ![screenshot](./assets/images/team-profile-generator-passed-tests.PNG)
 
 
   - Passed Tests:
-  ![screenshot](./assets/images/team-profile-generator_passed-tests.png)
+  ![screenshot](./assets/images/team-profile-generator_passed-tests.PNG)
 
 
   ## License
