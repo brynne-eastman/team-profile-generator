@@ -37,7 +37,7 @@
 
   ## Screenshot
   - Commandline:
-  ![screenshot](./assets/images/team-profile-generator-command-line.PNG)
+  ![screenshot](./assets/images/team-profile-generator_command-line.PNG)
 
 
   - Passed Tests:
