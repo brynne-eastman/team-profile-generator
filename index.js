@@ -208,7 +208,7 @@ const addEmployee = async (array) => {
              }
              
              // Success message
-             console.log("Your index.html file has been created in the 'dist' folder!");
+             console.log("Your index.html file has been generated in the 'dist' folder!");
          });
 
      }

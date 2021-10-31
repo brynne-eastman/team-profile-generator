@@ -9,6 +9,8 @@
   * [Installation](#installation)
   * [Languages](#languages)
   * [Usage](#usage)
+  * [Demo](#demo)
+  * [Screenshots](#screenshots)
   * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
@@ -29,7 +31,17 @@
     - Manager - Office Number
     - Engineer - Github Username
     - Intern - School
-  - Once all questions are answered, index.html will in generatred in the 'dist' folder
+  - Once all questions are answered, index.html will generate index.html in the 'dist' folder.
+
+  ## Demo
+  ![gif]()
+
+  ## Screenshots
+  - Commandline:
+
+
+  - Passed Tests:
+
 
   ## License
   MIT
