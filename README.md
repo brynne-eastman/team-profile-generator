@@ -32,15 +32,15 @@
     - Intern - School
   - Once all questions are answered, index.html will generate index.html in the 'dist' folder.
 
-  ## Demo
+  ### Demo
   ![gif]()
 
-  ## Screenshots
+  ### Screenshots
   - Commandline:
 
 
   - Passed Tests:
-  ![screenshots]("./assets/images/team-profile-generator_passed-tests.png")
+  ![screenshot](./assets/images/team-profile-generator_passed-tests.png)
 
 
   ## License
