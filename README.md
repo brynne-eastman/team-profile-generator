@@ -33,7 +33,7 @@
   - Once all questions are answered, index.html will generate index.html in the 'dist' folder.
 
   ## Demo
-  ![gif](./assets/demo/team-profile-generator.GIF)
+  ![gif](./assets/demo/team-profile-generator_demo.gif)
 
   ## Screenshot
   - Commandline:
