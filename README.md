@@ -41,7 +41,7 @@
 
 
   - Passed Tests:
-  ![screenshot](../assets/images/team-profile-generator_passed-tests.png)
+  ![screenshots](./assets/images/team-profile-generator_passed-tests.png)
 
 
   ## License
