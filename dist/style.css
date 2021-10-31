@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: blue;
+    --secondary: white; 
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-header {
+    color: var(--primary);
+}
+
+.card-body {
+    color: var(--secondary)
+}
+
+a {
+    color: black
+}
