@@ -15,21 +15,21 @@
   * [Questions](#questions)
   
   ## Installation 
-  *Clone repository
-  *Install inquirer: npm install
+  - Clone repository
+  - Install inquirer: npm install
 
   ## Languages
   JavaScript, Node, CSS, HTML, Inquirer, Jest, Bootstrap, Google Fonts
 
   ## Usage
-  *To start application, type the following in the command line: node index
-  *The user will then be asked questions about name, id, and email.
-  *The user will then be asked to select which employee role they want: Manager, Engineer, or Intern.
-  *Depending on the selected role, additional questions are presented:
-    *Manager - Office Number
-    *Engineer - Github Username
-    *Intern - School
-*Once all questions are answered, index.html will in generatred in the 'dist' folder
+  - To start application, type the following in the command line: node index
+  - The user will then be asked questions about name, id, and email.
+  - The user will then be asked to select which employee role they want: Manager, Engineer, or Intern.
+  - Depending on the selected role, additional questions are presented:
+    - Manager - Office Number
+    - Engineer - Github Username
+    - Intern - School
+  - Once all questions are answered, index.html will in generatred in the 'dist' folder
 
   ## License
   MIT
