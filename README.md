@@ -12,7 +12,6 @@
   * [Demo](#demo)
   * [Screenshots](#screenshots)
   * [License](#license)
-  * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
   
@@ -41,7 +40,7 @@
 
 
   - Passed Tests:
-  ![screenshots](./assets/images/team-profile-generator_passed-tests.png)
+  ![screenshots](./assets/images/team-profile-generator_passed-tests.png?raw=true "passed test")
 
 
   ## License
