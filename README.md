@@ -40,7 +40,7 @@
 
 
   - Passed Tests:
-  ![screenshots](./assets/images/team-profile-generator_passed-tests.png?raw=true "passed test")
+  ![screenshots]("./assets/images/team-profile-generator_passed-tests.png?raw=true")
 
 
   ## License
