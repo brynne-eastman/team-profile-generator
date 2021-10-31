@@ -157,7 +157,7 @@ const newEmployee = async () => {
                 inquirer.prompt(managerQuestions).then((response) => {
                     officeNumber = response.officeNumber;
                     let employee = new Manager(name, id, email, officeNumber);
-                    teamArr.pushh(employee);
+                    teamArr.push(employee);
                     addEmployee(teamArr);
                 });
             }
@@ -165,7 +165,7 @@ const newEmployee = async () => {
                 inquirer.prompt(engineerQuestions).then((response) => {
                     github = response.github;
                     let employee = new Engineer(name, id, email, github);
-                    teamArr.pushh(employee);
+                    teamArr.push(employee);
                     addEmployee(teamArr);
                 });
             }
@@ -173,7 +173,7 @@ const newEmployee = async () => {
                 inquirer.prompt(internQuestions).then((response) => {
                     school = response.school;
                     let employee = new Intern(name, id, email, school);
-                    teamArr.pushh(employee);
+                    teamArr.push(employee);
                     addEmployee(teamArr);
                 });
             }
@@ -199,9 +199,9 @@ const addEmployee = async (array) => {
              fs.mkdirSync(fileDirectory)
          }
 
-         // calls the renderHTML function in the generateHTML.js file to create the index.html
+         // calls the render function in the generateHTML.js file to create the index.html
          
-         fs.writeFile(filePath, renderHTML(array), (err) => {
+         fs.writeFile(filePath, render(array), (err) => {
      
              if (err) {
                  return console.log(err);
