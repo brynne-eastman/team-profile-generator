@@ -10,7 +10,7 @@
   * [Languages](#languages)
   * [Usage](#usage)
   * [Demo](#demo)
-  * [Screenshots](#screenshots)
+  * [Screenshot](#screenshot)
   * [License](#license)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -32,10 +32,10 @@
     - Intern - School
   - Once all questions are answered, index.html will generate index.html in the 'dist' folder.
 
-  ### Demo
+  ## Demo
   ![gif]()
 
-  ### Screenshots
+  ## Screenshot
   - Commandline:
 
 
